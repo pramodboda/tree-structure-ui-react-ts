@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    <h2>Tree structure UI </h2>
+    <h2>Tree Structure UI React Examples</h2>
       <div style={{ padding: 20 }}>
         <FolderTree />
       </div>
