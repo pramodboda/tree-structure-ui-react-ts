@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 
-import { FolderTree } from "./FolderTree";
+import { FolderTree } from "./components/FolderTree";
 
 function App() {
 
