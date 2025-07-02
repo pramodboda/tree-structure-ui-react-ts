@@ -34,7 +34,7 @@ export const FolderTree: React.FC = () => {
 
   return (
     <div>
-      <h2>📁 Folder Tree</h2>
+      <h3>📁 Folder Tree</h3>
       {tree.map(node => (
         <TreeNode key={node.id} node={node} />
       ))}
