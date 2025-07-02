@@ -1,7 +1,7 @@
 // FolderTree.tsx
 import React, { useState } from "react";
-import { folders } from "./foldersData";
-import { buildTree } from "./buildTree";
+import { folders } from "../data/foldersData";
+import { buildTree } from "../utils/buildTree";
 
 type FolderNode = {
   id: number;
